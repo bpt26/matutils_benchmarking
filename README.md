@@ -1,4 +1,4 @@
-# matutils_benchmarking
+# matUtils Benchmarking
 
 This repository contains all files used for comparing the performance of matUtils to related tools. We first purchased a google cloud compute server following the n2d-standard-16 type with 16 vCPUs and 64 GB of memory. We used the following commands to install conda and thereby all other programs tested in this project:
 
