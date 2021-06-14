@@ -1,0 +1,1 @@
+This repository contains auxiliary scripts used by calls to `newick_utils` and `tree_doctor`. Because subfunctions in these modules take in samples as lists rather than as files, we supply them sequentially to circumvent the "argument list too long" error.
